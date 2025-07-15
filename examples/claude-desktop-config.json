@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "rpo-server": {
+      "command": "node",
+      "args": ["/absolútna/cesta/k/rpo-mcp-server/dist/index.js"],
+      "env": {},
+      "description": "Slovak Register of Legal Entities (RPO) MCP Server"
+    }
+  }
+}
